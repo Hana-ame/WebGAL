@@ -53,4 +53,4 @@ changeBg:https://ex.moonchan.xyz/s/b7d894de07/3631029-104?redirect_to=image;
 :チパイスキーの奴隷エンド;
 ; --- CG 表示終わり（清除图片） ---
 changeBg:none;
-end;
+changeScene:start.txt;

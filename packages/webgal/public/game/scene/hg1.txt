@@ -40,4 +40,4 @@ changeBg:https://ex.moonchan.xyz/s/ec99806176/3631029-110?redirect_to=image;
 :住民エンド;
 ; --- CG 表示終わり（清除图片） ---
 changeBg:none;
-end;
+changeScene:start.txt;

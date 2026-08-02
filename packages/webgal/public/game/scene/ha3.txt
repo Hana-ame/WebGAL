@@ -28,4 +28,4 @@ changeBg:https://ex.moonchan.xyz/s/10adf89f2b/3631029-16?redirect_to=image;
 ; --- CG 表示終わり（清除图片） ---
 changeBg:none;
 :そのまま眠ってしまうイル。;
-end;
+changeScene:start.txt;

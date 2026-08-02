@@ -33,4 +33,4 @@ changeBg:https://ex.moonchan.xyz/s/701fc59364/3631029-71?redirect_to=image;
 イル:もちろんですチパイスキー様♡;
 ; --- CG 表示終わり（清除图片） ---
 changeBg:none;
-end;
+changeScene:start.txt;

@@ -35,4 +35,4 @@ changeBg:https://ex.moonchan.xyz/s/a21414e238/3631029-25?redirect_to=image;
 イル:はあ…はあ…早く…早く本物のチパイスキー様に会いたい…;
 ; --- CG 表示終わり（清除图片） ---
 changeBg:none;
-end;
+changeScene:start.txt;

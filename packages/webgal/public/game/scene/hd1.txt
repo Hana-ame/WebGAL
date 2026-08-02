@@ -39,4 +39,4 @@ changeBg:https://ex.moonchan.xyz/s/73283a9d71/3631029-64?redirect_to=image;
 :その表情はとても幸せそうだった…;
 ; --- CG 表示終わり（清除图片） ---
 changeBg:none;
-end;
+changeScene:start.txt;

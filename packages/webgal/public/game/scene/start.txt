@@ -2,4 +2,4 @@ setVar:heroine=イル;
 setVar:engine=WebGAL;
 :闇の回想部屋へようこそ。;
 :見たい回想を選んでください。;
-choose:HA1 自慰1:ha1|HA2 自慰2:ha2|HA3 自慰3:ha3|HB 開始:hbstart|HB1 忠誠自慰1:hb1|HB2 忠誠自慰2:hb2|T21 胸揉:t21|T22 胸揉:t22|T22 胸揉(淫乱):t22inran|HC1 窺視:hc1|HC3 貧乳ずりフェラ:hc3|T3 セクハラ:t3|HD1 貧乳手コキ:hd1|HD2 正常位:hd2|HD3 騎乗位:hd3|HE1 洗脳:he1|HE2 騎乗位:he2|HF1 正常位:hf1|HG1 乱交:hg1|終了:end;
+choose:HA1 自慰1:ha1.txt|HA2 自慰2:ha2.txt|HA3 自慰3:ha3.txt|HB 開始:hbstart.txt|HB1 忠誠自慰1:hb1.txt|HB2 忠誠自慰2:hb2.txt|T21 胸揉:t21.txt|T22 胸揉:t22.txt|T22 胸揉(淫乱):t22inran.txt|HC1 窺視:hc1.txt|HC3 貧乳ずりフェラ:hc3.txt|T3 セクハラ:t3.txt|HD1 貧乳手コキ:hd1.txt|HD2 正常位:hd2.txt|HD3 騎乗位:hd3.txt|HE1 洗脳:he1.txt|HE2 騎乗位:he2.txt|HF1 正常位:hf1.txt|HG1 乱交:hg1.txt;

@@ -20,4 +20,4 @@ flash:#ffffff -duration=1000;
 changeBg:https://ex.moonchan.xyz/s/7bb53ddaf2/3631029-131?redirect_to=image;
 男性:あっイッちゃったのかい
 そんなに俺の触り方が良かったのかな\FH[OFF];
-end;
+changeScene:start.txt;

@@ -35,4 +35,4 @@ changeBg:https://ex.moonchan.xyz/s/93fb64fe93/3631029-55?redirect_to=image;
 男性:はあ…はあ…良かったよ;
 ; --- CG 表示終わり（清除图片） ---
 changeBg:none;
-end;
+changeScene:start.txt;

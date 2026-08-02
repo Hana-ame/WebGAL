@@ -46,4 +46,4 @@ changeBg:https://ex.moonchan.xyz/s/a06bbd149b/3631029-77?redirect_to=image;
 :チパイスキーエンド;
 ; --- CG 表示終わり（清除图片） ---
 changeBg:none;
-end;
+changeScene:start.txt;

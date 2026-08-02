@@ -100,4 +100,4 @@ changeBg:https://ex.moonchan.xyz/s/f3319b6bc2/3631029-91?redirect_to=image;
 イル:はい、ご主人様;
 ; --- CG 表示終わり（清除图片） ---
 changeBg:none;
-end;
+changeScene:start.txt;

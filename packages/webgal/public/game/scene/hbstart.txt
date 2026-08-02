@@ -12,4 +12,4 @@ changeBg:none;
 ; --- 公共事件 3 ---
 jumpLabel:終了;
 label:終了;
-end;
+changeScene:start.txt;

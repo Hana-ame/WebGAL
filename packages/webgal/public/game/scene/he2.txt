@@ -52,4 +52,4 @@ changeBg:https://ex.moonchan.xyz/s/4273c119ca/3631029-97?redirect_to=image;
 :チパイスキー敗北エンド;
 ; --- CG 表示終わり（清除图片） ---
 changeBg:none;
-end;
+changeScene:start.txt;

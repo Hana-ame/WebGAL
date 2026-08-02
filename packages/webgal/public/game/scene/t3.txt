@@ -101,4 +101,4 @@ changeBg:https://ex.moonchan.xyz/s/53a5dcaec2/3631029-145?redirect_to=image;
 changeBg:https://ex.moonchan.xyz/s/948f4123bb/3631029-144?redirect_to=image;
 イル:これで私は一生チパイスキー様の物です
 これからよろしくお願いしますね;
-end;
+changeScene:start.txt;

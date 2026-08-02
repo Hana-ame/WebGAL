@@ -24,4 +24,4 @@ changeBg:https://ex.moonchan.xyz/s/7bb53ddaf2/3631029-131?redirect_to=image;
 そんなに俺の触り方が良かったのかな;
 changeBg:https://ex.moonchan.xyz/s/775511cb33/3631029-127?redirect_to=image;
 イル:ええ、とても良かったわよ\FH[OFF];
-end;
+changeScene:start.txt;
