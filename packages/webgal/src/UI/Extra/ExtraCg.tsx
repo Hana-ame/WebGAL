@@ -12,6 +12,7 @@ interface IExtraCgDisplayItem {
   key: string;
   name: string;
   resources: IAppreciationAsset[];
+  scene?: string;
 }
 
 export function ExtraCg() {
@@ -38,6 +39,7 @@ export function ExtraCg() {
         resources={groupedCgList[i].resources}
         transformDeg={deg}
         index={index}
+        scene={groupedCgList[i].scene}
         key={groupedCgList[i].key}
       />
     );
@@ -99,6 +101,7 @@ function buildGroupedCgList(cgList: IAppreciationAsset[]): IExtraCgDisplayItem[]
         key: `series:${cg.series}`,
         name: cg.name,
         resources: [cg],
+        scene: cg.series,
       });
       return;
     }

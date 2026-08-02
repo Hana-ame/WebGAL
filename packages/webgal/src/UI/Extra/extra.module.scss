@@ -194,6 +194,21 @@
   box-shadow: none;
 }
 
+.cgScenePlay {
+  position: absolute;
+  bottom: 0.6em;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 0.4em 1em;
+  background: rgba(0, 0, 0, 0.65);
+  color: #fff;
+  border-radius: 0.4em;
+  font-size: 0.85em;
+  z-index: 20;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
 .cgStackItem {
   position: absolute;
   inset: 0.6em;

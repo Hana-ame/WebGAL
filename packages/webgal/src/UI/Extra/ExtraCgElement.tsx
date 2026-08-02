@@ -3,6 +3,9 @@ import styles from '@/UI/Extra/extra.module.scss';
 import React, { useMemo, useState } from 'react';
 import useSoundEffect from '@/hooks/useSoundEffect';
 import { IAppreciationAsset } from '@/store/userDataInterface';
+import { changeScene } from '@/Core/controller/scene/changeScene';
+import { webgalStore } from '@/store/store';
+import { setVisibility } from '@/store/GUIReducer';
 
 export const isVideoFile = (url: string) => {
   const extension = url.split('.').pop()?.toLowerCase() || '';
@@ -14,6 +17,7 @@ interface IProps {
   resources: IAppreciationAsset[];
   transformDeg: number;
   index: number;
+  scene?: string;
 }
 
 export function ExtraCgElement(props: IProps) {
@@ -116,6 +120,18 @@ export function ExtraCgElement(props: IProps) {
     setCurrentResourceIndex((currentIndex) => currentIndex + 1);
   };
 
+  const playScene = (e: React.MouseEvent<HTMLDivElement>) => {
+    e.stopPropagation();
+    if (!props.scene) {
+      return;
+    }
+    playSeClick();
+    webgalStore.dispatch(setVisibility({ component: 'showExtra', visibility: false }));
+    webgalStore.dispatch(setVisibility({ component: 'showTitle', visibility: false }));
+    const sceneName = props.scene.split('/').pop() ?? props.scene;
+    changeScene(`${props.scene}.txt`, sceneName);
+  };
+
   return (
     <>
       {showFull.value && (
@@ -148,6 +164,15 @@ export function ExtraCgElement(props: IProps) {
           </>
         ) : (
           renderMedia(previewResource.url)
+        )}
+        {props.scene && (
+          <div
+            className={styles.cgScenePlay}
+            onClick={playScene}
+            onMouseEnter={playSeEnter}
+          >
+            ▶ 再生
+          </div>
         )}
       </div>
     </>
