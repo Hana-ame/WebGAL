@@ -40,6 +40,7 @@ export const SCRIPT_CONFIG = [
   { scriptString: 'wait', scriptType: commandType.wait },
   { scriptString: 'callSteam', scriptType: commandType.callSteam },
   { scriptString: 'return', scriptType: commandType.return },
+  { scriptString: 'flash', scriptType: commandType.flash },
 ];
 export const ADD_NEXT_ARG_LIST = [
   commandType.bgm,
@@ -56,6 +57,7 @@ export const ADD_NEXT_ARG_LIST = [
   commandType.setTransition,
   commandType.applyStyle,
   commandType.callSteam,
+  commandType.flash,
 ];
 
 export type ConfigMap = Map<string, ConfigItem>;

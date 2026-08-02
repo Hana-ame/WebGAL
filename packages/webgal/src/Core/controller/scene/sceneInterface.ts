@@ -42,6 +42,7 @@ export enum commandType {
   wait,
   callSteam, // 调用Steam功能
   return, // 从被调用的场景返回
+  flash, // 画面闪白/闪烁（RMMZ 224 白闪迁移）
 }
 
 /**

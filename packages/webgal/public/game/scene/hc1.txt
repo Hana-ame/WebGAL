@@ -1,0 +1,45 @@
+; HC1見抜き１ (RMMZ event 42) -> WebGAL
+; 由 rmmz2webgal.py 转换
+:建物の影へと移動する二人。;
+changeBg:https://ex.moonchan.xyz/s/f75b650daf/3631029-30?redirect_to=image;
+イル:ほら、これで良い？;
+:そう言い服をはだけさせ胸を露出するイル。;
+男性:おお、最高だよ！！;
+男性:ああ、もう我慢できない;
+changeBg:https://ex.moonchan.xyz/s/3fcb2c376a/3631029-31?redirect_to=image;
+:そう言い勃起したペニスを取り出す男。;
+イル:ちょっ何出してるのよ！！;
+男性:触れたりはしないから、頼む、抜かせてくれ！;
+イル:追加料金いただくけど良い？;
+男性:もちろん！;
+changeBg:https://ex.moonchan.xyz/s/944f484a0e/3631029-32?redirect_to=image;
+イル:じゃあ好きなだけ見て行けばいいわ;
+男性:ありがとう！
+それで…その…;
+男性:できればパンツも見せて欲しいんだけど…;
+changeBg:https://ex.moonchan.xyz/s/a0255a7e7a/3631029-33?redirect_to=image;
+イル:はあ！？パンツ見たいって変態なの？！;
+男性:そんなに怒らないで！お金ならさらに出すから！;
+イル:パンツが見たいなんて本当に変態ね;
+イル:まあ、お金もらえるなら見せるぐらいはしてあげるわ;
+:胸を露出することに関しては思想が染まりかけていることで
+あまり抵抗がなくなっているイルだが、
+それ以外の認識はそのままであるため、
+パンツを露出することに関しては抵抗感があった。;
+changeBg:https://ex.moonchan.xyz/s/d00c790032/3631029-34?redirect_to=image;
+イル:ほら、これで良い？;
+:そう言いスカートをたくし上げパンツを見せるイル。;
+changeBg:https://ex.moonchan.xyz/s/8f7063ec2d/3631029-35?redirect_to=image;
+男性:ああ最高だよ！！;
+男性:ああっ凄い高まってきた…;
+男性:本当に最高だよ…ああっ出るっ;
+changeBg:https://ex.moonchan.xyz/s/289f3fa693/3631029-36?redirect_to=image;
+flash:#ffffff -duration=1000;
+:ドピュドピュドピューーー;
+changeBg:https://ex.moonchan.xyz/s/0deaa49e4a/3631029-37?redirect_to=image;
+イル:うえぇ…これが精液…;
+男性:はあ…はあ…本当にありがとうね;
+; --- CG 表示終わり（清除图片） ---
+changeBg:none;
+:身なりを整えたイル。;
+end;

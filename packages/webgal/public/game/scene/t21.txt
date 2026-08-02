@@ -1,0 +1,23 @@
+; T21胸もまれ (RMMZ event 39) -> WebGAL
+; 由 rmmz2webgal.py 转换
+changeBg:https://ex.moonchan.xyz/s/871f437378/3631029-119?redirect_to=image;
+男性:じゃあさっそく失礼して;
+changeBg:https://ex.moonchan.xyz/s/2a3e6bad62/3631029-120?redirect_to=image;
+:そして、胸を触られるイル。;
+イル:んっ…;
+イル:(胸でイケる薬の影響が残ってるのかしら…感じちゃうわね…);
+changeBg:https://ex.moonchan.xyz/s/f4f2863867/3631029-121?redirect_to=image;
+男性:良いおっぱいだね
+君も気持ち良さそうで良かったよ;
+イル:んっあっ…;
+イル:(チパイスキー様でもないのにこんなに感じちゃって…);
+男性:ああ良い触り心地だよ;
+イル:(やばい…イッちゃう…);
+changeBg:https://ex.moonchan.xyz/s/8ca7420351/3631029-122?redirect_to=image;
+flash:#ffffff -duration=1000;
+:ビクンビクン
+絶頂するイル。;
+changeBg:https://ex.moonchan.xyz/s/cb2d51e86c/3631029-123?redirect_to=image;
+男性:あっイッちゃったのかい
+そんなに俺の触り方が良かったのかな\FH[OFF];
+end;

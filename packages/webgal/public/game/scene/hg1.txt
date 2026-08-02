@@ -1,0 +1,43 @@
+; HG1乱交 (RMMZ event 65) -> WebGAL
+; 由 rmmz2webgal.py 转换
+:貧乳の国の住民になることに決めたイル。;
+:そのためにはお金を稼がないといけない。
+そこでイルが取った行動は…;
+changeBg:https://ex.moonchan.xyz/s/ac69bf9bf0/3631029-105?redirect_to=image;
+:パンパンパンパン;
+イル:ああっ良いっ
+もっと気持ち良くして♡;
+男１:ああ、やっぱりイルちゃんは最高だよ！;
+男２:ほんとほんと、おっぱいも最高だし！;
+イル:もっと褒めて～;
+:男たちと交わるイルの姿があった。;
+男３:凄い気持ち良い、もう出ちゃいそうだよ;
+イル:あはっ、我慢しなくても良いよっ
+さっさと出しちゃえ;
+男１:ああっ出るっ;
+changeBg:https://ex.moonchan.xyz/s/de3b77a887/3631029-107?redirect_to=image;
+flash:#ffffff -duration=1000;
+:ドピュドピュー;
+changeBg:https://ex.moonchan.xyz/s/de3b77a887/3631029-107?redirect_to=image;
+イル:ああっ精液感じる～♡;
+changeBg:https://ex.moonchan.xyz/s/0a1f42c2cb/3631029-108?redirect_to=image;
+イル:ほらあなた達も;
+:そう言い手の動きが激しくなる。;
+男１:ああっそんなに刺激されたら…;
+男２:お、俺も…ああっ;
+changeBg:https://ex.moonchan.xyz/s/37d93d9ac0/3631029-109?redirect_to=image;
+flash:#ffffff -duration=1000;
+:ドピュドピュドピューーー
+大量の精液がイルに降り注ぐ。;
+changeBg:https://ex.moonchan.xyz/s/ec99806176/3631029-110?redirect_to=image;
+イル:ああ…いっぱい出したね♡;
+男１:また来るから;
+男２:俺も絶対また来る！;
+男３:俺も！;
+イル:(避妊魔法で妊娠もしないし、
+ 気持ち良いしおっぱいも褒めてくれるし、ほんと最高♡);
+:お金稼ぎのためにイルは娼婦として働いているのだった。;
+:住民エンド;
+; --- CG 表示終わり（清除图片） ---
+changeBg:none;
+end;

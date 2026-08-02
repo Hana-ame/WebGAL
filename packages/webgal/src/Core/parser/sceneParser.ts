@@ -38,6 +38,7 @@ import { showVars } from '../gameScripts/showVars';
 import { defineScripts, IConfigInterface, ScriptConfig, ScriptFunction, scriptRegistry } from './utils';
 import { applyStyle } from '@/Core/gameScripts/applyStyle';
 import { wait } from '@/Core/gameScripts/wait';
+import { flash } from '@/Core/gameScripts/flash';
 
 export const SCRIPT_TAG_MAP = defineScripts({
   say: ScriptConfig(commandType.say, say),
@@ -76,6 +77,7 @@ export const SCRIPT_TAG_MAP = defineScripts({
   wait: ScriptConfig(commandType.wait, wait),
   callSteam: ScriptConfig(commandType.callSteam, callSteam, { next: true }),
   return: ScriptConfig(commandType.return, returnScript),
+  flash: ScriptConfig(commandType.flash, flash, { next: true }),
 });
 
 export const SCRIPT_CONFIG: IConfigInterface[] = Object.values(SCRIPT_TAG_MAP);

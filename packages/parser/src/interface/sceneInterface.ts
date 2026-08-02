@@ -41,6 +41,7 @@ export enum commandType {
   wait,
   callSteam, // 调用Steam功能
   return, // 从被调用的场景返回
+  flash, // 画面闪烁（RMMZ 224 迁移）
 }
 
 /**
